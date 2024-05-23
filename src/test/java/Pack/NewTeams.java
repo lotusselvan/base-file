@@ -1,16 +1,21 @@
 package Pack;
 
 public class NewTeams {
-	public void details() {
-		int i =1;
-		 String name ="thamrai";
-		 
-
+	public void first() {
+		System.out.println("1+1");
 	}
-	public static void main(String[] args) {
-		System.out.println("hi lotus");
-		
-		
+
+	public void second() {
+		System.out.println("sljf");
+	}
+
+	private void third() {
+		System.out.println("louts");
+	}
+
+	public void details() {
+		int i = 1;
+		String name = "thamrai";
 	}
 
 }
