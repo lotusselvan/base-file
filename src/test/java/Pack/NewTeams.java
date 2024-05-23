@@ -9,6 +9,10 @@ public class NewTeams {
 		System.out.println("sljf");
 	}
 
+	private void third() {
+		System.out.println("louts");
+	}
+
 	public void details() {
 		int i = 1;
 		String name = "thamrai";
